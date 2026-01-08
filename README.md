@@ -1,5 +1,6 @@
 # syntactic_complexity_in_LLMs
-Datasets used in the manuscript: 'Tracing the complexity profiles of different linguistic phenomena through the intrinsic dimension of LLM representations' by M.Baroni, E.Cheng, I. De Dios Flores, F.Franzon
+Datasets used in the manuscript: 'Tracing the complexity profiles of different linguistic phenomena through the intrinsic dimension of LLM representations' by M.Baroni, E.Cheng, I. De Dios Flores, F.Franzon available at [arxiv.org/abs/2601.03779](http://arxiv.org/abs/2601.03779).
+
 The archive [datasets_syntactic_complexity.zip](https://github.com/franfranz/syntactic_complexity_in_LLMs/blob/main/datasets_syntactic_complexity.zip) contains all the .txt files with tab-delimited fields used for the experiments, as described below: 
 
 ## datasets
